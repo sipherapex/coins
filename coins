@@ -17270,5 +17270,21 @@
       "github": "https://github.com/casraw/cascoin",
       "homepage": "https://cascoin.net"
     }
+  },
+{
+  "coin": "AUR",
+  "name": "Aureus",
+  "symbol": "AUR",
+  "coin_type": "utxo",
+  "rpcport": 11995,
+  "pubtype": 23,
+  "p2sh": 20,
+  "wif": 151,
+  "txfee": 10000,
+  "estimate_fee_mode": "economical",
+  "mm2": 1,
+  "protocol": {
+    "type": "UTXO"
   }
+}
 ]
