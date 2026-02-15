@@ -202,6 +202,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -210,9 +213,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -267,6 +267,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -275,9 +278,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -679,6 +679,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -687,9 +690,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -1020,6 +1020,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -1028,9 +1031,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -1085,6 +1085,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -1093,9 +1096,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -1674,6 +1674,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -1682,9 +1685,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -1974,6 +1974,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -1982,9 +1985,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -2040,6 +2040,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -2048,9 +2051,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -2281,6 +2281,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -2289,9 +2292,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -2649,6 +2649,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -2657,9 +2660,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -2714,6 +2714,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -2722,9 +2725,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -2919,6 +2919,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -2927,9 +2930,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -3142,6 +3142,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -3150,9 +3153,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -3589,6 +3589,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -3597,9 +3600,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -3753,6 +3753,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -3761,9 +3764,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -3812,6 +3812,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -3820,9 +3823,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -3978,6 +3978,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -3986,9 +3989,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -4210,6 +4210,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -4218,9 +4221,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -4275,6 +4275,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -4283,9 +4286,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -4576,6 +4576,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -4584,9 +4587,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -5330,6 +5330,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -5338,9 +5341,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -5507,6 +5507,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -5515,9 +5518,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -5571,6 +5571,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -5579,9 +5582,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -5747,6 +5747,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -5755,9 +5758,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -6263,6 +6263,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -6271,9 +6274,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -6485,6 +6485,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -6493,9 +6496,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -6741,6 +6741,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -6749,9 +6752,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -6988,6 +6988,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -6996,9 +6999,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -7613,6 +7613,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -7621,9 +7624,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -7738,6 +7738,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -7746,9 +7749,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -8059,6 +8059,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -8067,9 +8070,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -8125,6 +8125,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -8133,9 +8136,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -8574,6 +8574,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -8582,9 +8585,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -8804,6 +8804,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -8812,9 +8815,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -9151,6 +9151,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -9159,9 +9162,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -9211,6 +9211,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -9219,9 +9222,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -9805,6 +9805,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -9813,9 +9816,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -9923,6 +9923,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -9931,9 +9934,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -10276,6 +10276,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -10284,9 +10287,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -10777,6 +10777,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -10785,9 +10788,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -10926,6 +10926,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -10934,9 +10937,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -11745,6 +11745,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -11753,9 +11756,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -11804,6 +11804,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -11812,9 +11815,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -12206,6 +12206,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -12214,9 +12217,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -13210,6 +13210,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -13218,9 +13221,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -13662,6 +13662,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -13670,9 +13673,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -13966,6 +13966,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -13974,9 +13977,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -14083,6 +14083,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -14091,9 +14094,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -14509,6 +14509,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -14517,9 +14520,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -14616,6 +14616,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -14624,9 +14627,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -14675,6 +14675,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -14683,9 +14686,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -14740,6 +14740,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -14748,9 +14751,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -14977,6 +14977,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -14985,9 +14988,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -15104,6 +15104,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -15112,9 +15115,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -15507,6 +15507,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -15515,9 +15518,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -15616,6 +15616,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -15624,9 +15627,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -15905,6 +15905,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -15913,9 +15916,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -16719,6 +16719,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -16727,9 +16730,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -16853,6 +16853,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -16861,9 +16864,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -17037,6 +17037,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -17045,9 +17048,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -17156,6 +17156,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -17164,9 +17167,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -17432,6 +17432,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -17440,9 +17443,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -17885,6 +17885,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -17893,9 +17896,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -17944,6 +17944,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -17952,9 +17955,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -18183,6 +18183,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -18191,9 +18194,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -18346,6 +18346,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -18354,9 +18357,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -18705,6 +18705,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -18713,9 +18716,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -18837,6 +18837,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -18845,9 +18848,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -19194,6 +19194,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -19202,9 +19205,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -19417,6 +19417,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -19425,9 +19428,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -19483,6 +19483,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -19491,9 +19494,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -20102,6 +20102,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -20110,9 +20113,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -20162,6 +20162,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -20170,9 +20173,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -20758,6 +20758,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -20766,9 +20769,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -21187,6 +21187,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -21195,9 +21198,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -21312,6 +21312,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -21320,9 +21323,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -21437,6 +21437,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -21445,9 +21448,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -21964,6 +21964,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -21972,9 +21975,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -22302,6 +22302,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -22310,9 +22313,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -22538,6 +22538,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -22546,9 +22549,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -22665,6 +22665,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -22673,9 +22676,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -22791,6 +22791,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -22799,9 +22802,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -22856,6 +22856,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -22864,9 +22867,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -23038,6 +23038,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -23046,9 +23049,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -23097,6 +23097,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -23105,9 +23108,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -23220,6 +23220,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -23228,9 +23231,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -23462,6 +23462,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -23470,9 +23473,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -23764,6 +23764,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -23772,9 +23775,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -23948,6 +23948,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -23956,9 +23959,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -25007,6 +25007,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -25015,9 +25018,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -25303,6 +25303,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -25311,9 +25314,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -25621,6 +25621,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -25629,9 +25632,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -25680,6 +25680,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -25688,9 +25691,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -26074,6 +26074,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -26082,9 +26085,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -26700,6 +26700,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -26708,9 +26711,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -27154,6 +27154,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -27162,9 +27165,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -27323,6 +27323,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -27331,9 +27334,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -27383,6 +27383,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -27391,9 +27394,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -27516,6 +27516,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -27524,9 +27527,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -27764,6 +27764,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -27772,9 +27775,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -27941,6 +27941,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -27949,9 +27952,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -28449,6 +28449,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -28457,9 +28460,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -28615,6 +28615,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -28623,9 +28626,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -28895,6 +28895,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -28903,9 +28906,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -29130,6 +29130,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -29138,9 +29141,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -29611,6 +29611,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -29619,9 +29622,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -29733,6 +29733,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -29741,9 +29744,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -29847,6 +29847,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -29855,9 +29858,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -30200,6 +30200,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -30208,9 +30211,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -30600,10 +30600,6 @@
                 "ws_url": "wss://moonriver-rpc.publicnode.com"
             },
             {
-                "url": "https://moonriver.drpc.org",
-                "ws_url": "wss://moonriver.drpc.org"
-            },
-            {
                 "url": "https://rpc.api.moonriver.moonbeam.network",
                 "ws_url": "wss://wss.api.moonriver.moonbeam.network"
             }
@@ -30648,6 +30644,10 @@
         "swap_contract_address": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "fallback_swap_contract": "0x6d9ce4BD298DE38bAfEFD15f5C6f5c95313B1d94",
         "nodes": [
+            {
+                "url": "https://moonbeam-rpc.publicnode.com",
+                "ws_url": "wss://moonbeam-rpc.publicnode.com"
+            },
             {
                 "url": "https://moonbeam.drpc.org",
                 "ws_url": "wss://moonbeam.drpc.org"
@@ -30749,6 +30749,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -30757,9 +30760,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -30814,6 +30814,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -30822,9 +30825,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -31019,6 +31019,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -31027,9 +31030,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -31578,6 +31578,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -31586,9 +31589,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -31964,6 +31964,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -31972,9 +31975,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -32023,6 +32023,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -32031,9 +32034,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -32271,6 +32271,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -32279,9 +32282,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -32569,6 +32569,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -32577,9 +32580,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -32694,6 +32694,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -32702,9 +32705,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -33263,6 +33263,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -33271,9 +33274,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -33391,6 +33391,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -33399,9 +33402,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -34220,6 +34220,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -34228,9 +34231,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -34519,6 +34519,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -34527,9 +34530,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -35396,6 +35396,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -35404,9 +35407,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -36748,6 +36748,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -36756,9 +36759,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -37566,6 +37566,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -37574,9 +37577,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -37837,6 +37837,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -37845,9 +37848,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -37965,6 +37965,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -37973,9 +37976,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -38031,6 +38031,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -38039,9 +38042,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -38145,6 +38145,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -38153,9 +38156,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -38378,6 +38378,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -38386,9 +38389,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -38867,6 +38867,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -38875,9 +38878,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -39170,6 +39170,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -39178,9 +39181,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -39284,6 +39284,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -39292,9 +39295,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -39566,6 +39566,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -39574,9 +39577,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -39625,6 +39625,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -39633,9 +39636,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -39851,6 +39851,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -39859,9 +39862,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -40394,6 +40394,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -40402,9 +40405,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -41010,6 +41010,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -41018,9 +41021,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -41107,6 +41107,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -41115,9 +41118,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -41302,6 +41302,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -41310,9 +41313,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -41410,6 +41410,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -41418,9 +41421,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -41476,6 +41476,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -41484,9 +41487,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -41650,6 +41650,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -41658,9 +41661,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -41833,6 +41833,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -41841,9 +41844,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -42112,6 +42112,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -42120,9 +42123,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -42639,6 +42639,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -42647,9 +42650,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -43156,6 +43156,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -43164,9 +43167,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -43426,6 +43426,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -43434,9 +43437,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -43879,6 +43879,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -43887,9 +43890,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -44007,6 +44007,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -44015,9 +44018,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -44491,6 +44491,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -44499,9 +44502,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -44869,6 +44869,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -44877,9 +44880,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -45292,6 +45292,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -45300,9 +45303,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -45712,6 +45712,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -45720,9 +45723,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -45896,6 +45896,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -45904,9 +45907,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -46052,6 +46052,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -46060,9 +46063,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -46241,6 +46241,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -46249,9 +46252,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -46711,6 +46711,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -46719,9 +46722,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -46967,6 +46967,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -46975,9 +46978,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -47116,6 +47116,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -47124,9 +47127,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -47401,6 +47401,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -47409,9 +47412,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -47521,6 +47521,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -47529,9 +47532,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -47753,6 +47753,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -47761,9 +47764,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -48185,6 +48185,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -48193,9 +48196,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -48321,6 +48321,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -48329,9 +48332,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -48831,6 +48831,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -48839,9 +48842,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -51414,6 +51414,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -51422,9 +51425,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -51536,6 +51536,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -51544,9 +51547,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -51956,6 +51956,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -51964,9 +51967,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -52133,6 +52133,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -52141,9 +52144,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -52419,6 +52419,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -52427,9 +52430,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -52568,6 +52568,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -52576,9 +52579,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -53213,6 +53213,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -53221,9 +53224,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
@@ -53765,6 +53765,9 @@
         "fallback_swap_contract": "0xeDc5b89Fe1f0382F9E4316069971D90a0951DB31",
         "nodes": [
             {
+                "url": "https://bsc-dataseed1.ninicoin.io"
+            },
+            {
                 "url": "https://bsc-dataseed2.defibit.io"
             },
             {
@@ -53773,9 +53776,6 @@
             {
                 "url": "https://bsc-rpc.publicnode.com",
                 "ws_url": "wss://bsc-rpc.publicnode.com"
-            },
-            {
-                "url": "https://bsc.api.pocket.network"
             },
             {
                 "url": "https://bsc1.cipig.net:18655",
